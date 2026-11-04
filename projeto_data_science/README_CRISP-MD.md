@@ -1,4 +1,4 @@
-# 📊 [Nome do Seu Projeto de Dados]
+# 📊 [Projeto Bola de ouro]
 
 > **[Uma frase curta e direta explicando o impacto do projeto. Ex: Modelo preditivo de Churn integrado a um painel analítico para redução de perdas de clientes.]**
 
@@ -83,4 +83,4 @@ Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM**, garantindo um
 
 ## 👥 Autores e Contato
 
-* **[Seu Nome]** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
+* **[Artur, Ariel, Francisco, Matheus]** - *Cientista de Dados / Analista de BI* - [Seu LinkedIn](https://linkedin.com)
