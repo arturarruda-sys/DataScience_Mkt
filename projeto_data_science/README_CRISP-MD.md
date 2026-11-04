@@ -1,6 +1,6 @@
-# 📊 [Projeto Bola de ouro]
+# 📊 [Projeto cooreção Bola de ouro]
 
-> **[Uma frase curta e direta explicando o impacto do projeto. Ex: Modelo preditivo de Churn integrado a um painel analítico para redução de perdas de clientes.]**
+> **[Análise preditiva e exploratória dos dados de desempenho futebolístico para avaliar a precisão e alinhamento estatístico do vencedor da bola de oura esse ano..]**
 
 ---
 
